@@ -1,9 +1,33 @@
 { "users" : [
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz"
+      "name": "Satya Karaka",
+      "username": "satyakaraka",
+      "email": "skaraka@charterglobal.com",
+      "password": "satya@365",
+      "joining_date": "10-11-2019",
+      "working_status": "1",
+      "designation": "1"  
+      "assigned_to": "",
+      "updated_date": ""  
+    }
+  ],
+ "user_roles" : [
+    {
+      "id": 1,
+      "name": "Administrator"
+    },{
+        "id": 2,
+        "name": "HR Manager"
+    },{
+         "id": 3,
+        "name": "Project Manager"
+    },{
+         "id": 4,
+        "name": "Team Lead"
+    },{
+         "id": 5,
+        "name": "Employee"
     }
   ]
 }
