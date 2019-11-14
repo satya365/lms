@@ -12,7 +12,7 @@
       "updated_date": ""  
     }
   ],
- "user_roles" : [
+ "roles" : [
     {
       "id": 1,
       "name": "Administrator"
