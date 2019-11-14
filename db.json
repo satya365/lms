@@ -29,5 +29,20 @@
          "id": 5,
         "name": "Employee"
     }
+  ],
+ "leave-types" : [
+    {
+      "id": 1,
+      "name": "Casual or Sick Leave"
+    },{
+        "id": 2,
+        "name": "Comp Offs"
+    },{
+         "id": 3,
+        "name": "Earned Leave"
+    },{
+         "id": 4,
+        "name": "Unpaid Leave"
+    }
   ]
 }
