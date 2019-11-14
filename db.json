@@ -7,9 +7,9 @@
       "password": "satya@365",
       "joining_date": "10-11-2019",
       "working_status": "1",
-      "designation": "1"  
-      "assigned_to": "0",
-      "updated_date": "0"  
+      "designation": "1",  
+      "assigned_to": "",
+      "updated_date": ""  
     }
   ],
  "user_roles" : [
