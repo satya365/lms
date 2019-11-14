@@ -8,8 +8,8 @@
       "joining_date": "10-11-2019",
       "working_status": "1",
       "designation": "1"  
-      "assigned_to": "",
-      "updated_date": ""  
+      "assigned_to": "0",
+      "updated_date": "0"  
     }
   ],
  "user_roles" : [
