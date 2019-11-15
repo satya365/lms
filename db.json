@@ -1,16 +1,5 @@
 { "users" : [
-    {
-      "id": 1,
-      "name": "Satya Karaka",
-      "loginname": "satyakaraka",
-      "email": "skaraka@charterglobal.com",
-      "password": "satya@365",
-      "joining_date": "10-11-2019",
-      "working_status": "1",
-      "designation": "1",  
-      "assigned_to": "",
-      "updated_date": ""  
-    }
+   
   ],
  "roles" : [
     {
